@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":237:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:78:"Patterns\Creational\FactoryMethod\FactoryMethodTest::testCanCreateCircleButton";d:0.147;s:83:"Patterns\Creational\FactoryMethod\FactoryMethodTest::testCanCreateRectangularButton";d:0.013;}}}
