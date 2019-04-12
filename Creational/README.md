@@ -17,4 +17,4 @@ SOLID原则的S(单一职责)
 - [抽象工厂模式](https://github.com/uuk020/DesignPatterns/tree/master/Creational/AbstractFactory)
 - [建造者模式](https://github.com/uuk020/DesignPatterns/tree/master/Creational/Builder)
 - [单例模式](https://github.com/uuk020/DesignPatterns/tree/master/Creational/Singleton)
-- 原型模式
+- [原型模式](https://github.com/uuk020/DesignPatterns/tree/master/Creational/Prototype)
