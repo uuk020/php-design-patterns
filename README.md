@@ -13,7 +13,7 @@
 
 设计模式的类型
 - [创建型](https://github.com/uuk020/DesignPatterns/tree/master/Creational)
-- 结构型
+- [结构型](https://github.com/uuk020/DesignPatterns/tree/master/Structural)
 - 行为型
 
 参考资料
