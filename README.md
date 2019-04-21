@@ -9,7 +9,17 @@
 
 此项目是我学习设计模式总结, 是因为我对面向对象了解不深, 面对对象原则是了解了,但写出代码差强人意.
 因此通过学习设计模式来加深对这些原则理解. 会从设计模式三个类型来分析, 本人水平有限，文章内容难免会出现问题，
-如果有问题欢迎指出，谢谢
+有问题欢迎指出，谢谢
+
+S.O.L.I.D 原则
+- SRP(The Single Responsibility Principle): 单一责任原则
+- OCP(The Open Closed Principle): 开放封闭原则
+- LSP(The Liskov Substitution Principle): 里氏替换原则
+- ISP(The Interface Segregation Principle):	接口分离原则
+- DIP(The Dependency Inversion Principle): 依赖倒置原则
+
+K.I.S.S原则: 把一个事情搞复杂是一件简单的事，但要把一个复杂的事变简单，这是一件复杂的事. 
+Keep It Simple,Stupid
 
 设计模式的类型
 - [创建型](https://github.com/uuk020/DesignPatterns/tree/master/Creational)
