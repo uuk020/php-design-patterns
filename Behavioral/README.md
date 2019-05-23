@@ -12,7 +12,7 @@
 - [中介者(Mediator)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/Mediator)
 - [备忘录(Memento)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/Memento)
 - [观察者(Observer)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/Observer)
-- [访问者(Visitor)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/Visitor)
 - [策略(Strategy)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/Strategy)
 - [状态(State)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/State)
 - [模板方法(Template Method)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/TemplateMethod)
+- [访问者(Visitor)](https://github.com/uuk020/DesignPatterns/tree/master/Behavioral/Visitor)
